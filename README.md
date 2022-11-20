@@ -37,4 +37,4 @@ Durant ce projet j'ai pu :
 
 
 
-![wordle](.\wordle.jpg)
+![wordle](wordle.jpg)
